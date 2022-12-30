@@ -1,4 +1,5 @@
 # OpenInfra Days Indonesia Events
+Website for OpenStack & OpenInfra Indonesia Events - Built with [Hugo](https://gohugo.io) + [UbuConAsia](https://github.com/ubucon-asia/ubucon-asia.github.io) themes and ❤️
 
 # Adding contents
 You will need to install [Hugo CLI](https://gohugo.io/getting-started/installing/) to easily add contents.
