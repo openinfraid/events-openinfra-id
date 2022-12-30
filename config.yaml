@@ -1,0 +1,71 @@
+baseURL: 'https://dev-event.openinfra.id/'
+languageCode: en-us
+title: OpenInfra Days Indonesia
+theme: ubuconasia-index
+Paginate: 5
+buildFuture: true
+enableRobotsTXT: true
+menu:
+  main:
+    - identifier: events
+      name: Events
+      url: events
+      weight: 1
+    - identifier: website
+      name: Website OpenInfra Indonesia
+      url: https://openinfra.id
+      weight: 2
+    - identifier: oid-asia
+      name: OpenInfra Days Asia
+      url: https://openinfra.asia
+      weight: 3
+    - identifier: oid-community-event
+      name: Other OpenInfra Community Event
+      url: https://www.openstack.org/events/community-events#openstack_days
+      weight: 4
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    title: OpenInfra Days Indonesia
+    weight: 1
+    params:
+      description: >-
+        is an event that brings together users, businesses, developers and operators to discuss matters related to IT infrastructure that utilizes open source software/hardware.
+  id:
+    languageName: Bahasa Indonesia
+    title: OpenInfra Days Indonesia
+    weight: 2
+    params:
+      description: >-
+        merupakan acara yang mempertemukan pengguna, bisnis, pengembang dan operator untuk berdiskusi mengenai hal-hal terkait infrastruktur TI yang memanfaatkan open source software/hardware.
+    menu:
+      main:
+        - identifier: events
+          name: Acara
+          url: events
+          weight: 1
+        - identifier: website
+          name: Situs OpenInfra Indonesia
+          url: https://openinfra.id
+          weight: 2
+        - identifier: oid-asia
+          name: OpenInfra Days Asia
+          url: https://openinfra.asia
+          weight: 3
+        - identifier: oid-community-event
+          name: Acara Komunitas OpenInfra Lainnya
+          url: https://www.openstack.org/events/community-events#openstack_days
+          weight: 4
+params:
+  contact: contact@openinfra.id
+  facebook: openinfraid
+  twitter: openinfraid
+  github: openinfraid
+  instagram: openinfraid
+  telegram: openstackindo
+  repo: https://github.com/openinfraid/events-openinfra-id
+  copyright:  ©2022 - OpenStack & OpenInfra Indonesia.
+  email: info@openinfra.id
+outputs:
+  section: ["HTML", "RSS"]

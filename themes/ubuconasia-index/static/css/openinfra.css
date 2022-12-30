@@ -1,0 +1,11 @@
+.p-navigation .p-navigation__item>.p-navigation__link {
+  color: #fff;
+}
+
+.is-red {
+  background-color: #e61e24;
+}
+
+.p-strip--accent {
+  background-color: #000;
+}
