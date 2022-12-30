@@ -1,4 +1,4 @@
-# OpenInfra Days Indonesia
+# OpenInfra Days Indonesia Events
 
 # Adding contents
 You will need to install [Hugo CLI](https://gohugo.io/getting-started/installing/) to easily add contents.
