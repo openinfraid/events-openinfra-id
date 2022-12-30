@@ -10,7 +10,7 @@ To create new content, run the following command
 hugo new --kind events events/<session-name>/_index.md
 
 # Example: Create session content with title "OpenInfra Days Indonesia 2024"
-hugo new --kind events events/openinfra.id-2021/_index.md
+hugo new --kind events events/open-infra-days-2024/_index.md
 ```
 
 After that, You will find generated markdown file under `content` directory. Edit the markdown file to add details.
