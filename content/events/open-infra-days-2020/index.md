@@ -4,7 +4,7 @@ date: 2020-02-14T15:39:48+09:00 # When this content published
 eventStartsAt: 2020-11-07T15:39:48+09:00 # When the event starts
 eventEndsAt: 2020-11-07T15:39:48+09:00 # When the event ends
 summary: ""
-link: "https://2020.openinfra.id" # Event website url
+link: "https://www.openstack.id/2020/10/08/open-infrastructure-cloud-native-day-indonesia-2020/" # Event website url
 image: "oicndi-2020.png" # Event logo
 location: "Online" # City and Country (e.g. Seoul, South Korea)
 venue: "Hopin" # Event venue (e.g. JustCo Tower)
