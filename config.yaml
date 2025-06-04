@@ -2,7 +2,7 @@ baseURL: 'https://events.openinfra.id/'
 languageCode: en-us
 title: OpenInfra Days Indonesia
 theme: ubuconasia-index
-Paginate: 5
+#Paginate: 5
 buildFuture: true
 enableRobotsTXT: true
 menu:
