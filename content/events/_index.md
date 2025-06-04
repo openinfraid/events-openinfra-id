@@ -1,3 +1,3 @@
 ---
-title: "OpenStack & OpenInfra Indonesia Annual Events"
+title: "OpenInfra Indonesia User Group Annual Events"
 ---
